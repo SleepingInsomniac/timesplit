@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/timesplit.svg)](https://badge.fury.io/rb/timesplit)
 [![Coverage Status](https://coveralls.io/repos/github/SleepingInsomniac/timesplit/badge.svg?branch=master)](https://coveralls.io/github/SleepingInsomniac/timesplit?branch=master)
-![](http://ruby-gem-downloads-badge.herokuapp.com/timesplit)
+[![Download Count](http://ruby-gem-downloads-badge.herokuapp.com/timesplit)](http://ruby-gem-downloads-badge.herokuapp.com/timesplit)
 
 ```ruby
 Split(4,0).to_s # => '00:04:00'
